@@ -1,0 +1,9 @@
+E:\Contests\WS_2\Project\Project\bin\Debug\Project.exe.config
+E:\Contests\WS_2\Project\Project\bin\Debug\Project.exe
+E:\Contests\WS_2\Project\Project\bin\Debug\Project.pdb
+E:\Contests\WS_2\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\Contests\WS_2\Project\Project\obj\Debug\Project.Form1.resources
+E:\Contests\WS_2\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Contests\WS_2\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Contests\WS_2\Project\Project\obj\Debug\Project.exe
+E:\Contests\WS_2\Project\Project\obj\Debug\Project.pdb
